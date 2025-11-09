@@ -1,3 +1,0 @@
-Hi,
-
-I am Hardik and learning version control.
